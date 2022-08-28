@@ -1,7 +1,5 @@
-# DataScience
-a repository for my Data science projects
-
-currently pursuing the IBM data science course
+# Machine Learning
+a repository for my Machine Learning projects
 
 # does markdown work in .md files ?
 ### yes lol
